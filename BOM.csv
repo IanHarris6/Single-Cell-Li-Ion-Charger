@@ -1,0 +1,9 @@
+Product #, Digikey Price (qty = 1) ,Reference(s),Value,Footprint,Datasheet
+C1608JB1C475M080AC,$0.37 ,"C1,C2",4.7uF,Capacitor_SMD:C_0603_1608Metric,https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf
+SMAJ5.0A,$0.38 ,D1,SMAJ5.0,SMAJ5.0:SMAJ5.0A,https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smaj_datasheet.pdf.pdf
+L152L-GC,$0.31 ,D2,LED,Diode_SMD:D_1206_3216Metric,https://www.aopled.com/AOP_PDFs/L152L-GC.pdf
+AMUSB-4646,$0.98 ,J1,USB_B_Micro,allied_connectors_usb:micro_usb_b_2.0_horizontal,https://www.alliedcomponents.com/storage/rj45/pdfs/amusb-4646.pdf
+G800LE300018YEU,$0.24 ,"J2, J3, J4, J5, J6",Generic Pin Header,Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical,https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/g800lexxxxxxyeu.pdf
+RMCF1206FT470R,$0.10 ,Rled1,470,Resistor_SMD:R_1206_3216Metric,https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf
+ESR18EZPJ202,$0.20 ,Rprog1,2k,Resistor_SMD:R_1206_3216Metric,https://fscdn.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr-e.pdf
+MCP73832T-2DCI/OT,$0.76 ,U1,MCP73832T-2DCI/OT,MCP73832T-2DCI_OT:SOT95P280X145-5N,https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf
