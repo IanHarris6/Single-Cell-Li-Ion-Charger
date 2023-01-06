@@ -1,5 +1,5 @@
 # MCP7382T-2DCI Breakout Board
-![image](https://user-images.githubusercontent.com/107767719/210141274-d4c72c1f-71ed-4e9a-b540-cebfbb1cedc9.png)
+![image](https://user-images.githubusercontent.com/107767719/210904480-2bbbdc0d-b127-4388-9dac-01685483f360.png)
 The schematic above is a simple breakout board designed to evaluate the MCP73832 IC. This IC is capable of charging a single Li-Ion cell to its fully voltage of 4.2 Volts and will stop supplying current to the battery once it has been fully charged.
 
 
@@ -32,11 +32,3 @@ Pin Description:
 4-VDD-POWER INPUT. Use Vbus from Micro USB to power MCP7382T
 
 5-PROG-DIGITAL INPUT. Current regulation input pin. Left floating or applying a logic-high input signal disables device and terminates charge cycle.
-
-![image](https://user-images.githubusercontent.com/107767719/210141210-5514fc17-79f9-49f0-9d3d-8e01fed53402.png)
-
-Above image is the 3D viewer of the front side of the board in Kicad. 
-
-![image](https://user-images.githubusercontent.com/107767719/210141231-9a1161dc-7a85-49da-977d-80a875ae498a.png)
-
-Above image is the 3D viewer of the back side of the board in Kicad. 
