@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(6.0.7)"
+      "Version": "(6.0.5-0)"
     },
-    "CreationDate": "2023-01-05T18:35:14-05:00"
+    "CreationDate": "2023-01-06T19:30:00-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -14,7 +14,7 @@
       "Revision": "rev?"
     },
     "Size": {
-      "X": 33.374,
+      "X": 32.612,
       "Y": 14.832
     },
     "LayerNumber": 2,
@@ -51,6 +51,11 @@
     {
       "Path": "Single_Li_Cell_Charger-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "Single_Li_Cell_Charger-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
